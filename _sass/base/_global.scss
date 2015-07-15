@@ -117,7 +117,12 @@ dl,
 
 ol,
 ul {
-  list-style-position: inside;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+li {
+  padding-bottom: 10px;
 }
 
 hr {

@@ -1,6 +1,6 @@
 # HackSoc 2015/16 site
 
-To replace : http://www.hacksocnotts.co.uk/category/about/
+To replace : http://www.hacksocnotts.co.uk/
 
 ## How to Contribute
 
