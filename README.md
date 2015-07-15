@@ -15,7 +15,7 @@ To replace : http://www.hacksocnotts.co.uk/
 
 ## Created with Jekyll
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+A free and open-source blogging platform [Jekyll](http://jekyllrb.com).
 
 
 
