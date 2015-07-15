@@ -5,8 +5,36 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+### What is HackSoc
+HackSoc is a society for those interested in all aspects of programming, based at the University of Nottingham.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+We attend national events on a regular basis, including: Hackin’ In the City, Space Apps & Hacked.io.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+ 
+### The Exec for 2015/16
+
+* **President:** Luke Geeson
+* **General Secretary:** James Tanna
+* **Treasurer:** Richard Davies
+* **Media Secretary:** Harry Mumford-Turner
+* **Hack Secretary:** Gregor Engelmann
+
+
+### Sponsors
+
+Special thanks to the following for their support.
+
+* University of Nottingham
+* School of Computer Science,
+
+If you are interested in being involved with the society, whether it be a traditional sponsorship deal or co-hosting a hackathon or other event, please get in touch at mail@hacksocnotts.co.uk
+
+
+### Useful Links
+
+* [UoN Society Homepage](http://www.su.nottingham.ac.uk/societies/society/hack)
+* [Facebook Group](http://www.facebook.com/groups/hacksocNotts/)
+* [Twitter](https://twitter.com/hacksocnotts)
+* [What is a hacker](http://en.wikipedia.org/wiki/Hacker)
+
+
